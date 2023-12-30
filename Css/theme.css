@@ -1,0 +1,16 @@
+:root {
+  /* Typography */
+  --main-font-family: "Manrope", sans-serif;
+  --font-size-lg: 30px;
+  --font-size-regular: 16px;
+  --font-size-sm: 14px;
+  --quotes--font-size: 20px;
+  --font-feature-settings: "clig" off, "liga" off;
+
+  /* Page colors */
+  --text-main-color: #2b2929;
+  --Default-White: #fff;
+  --Text-Gray-900: #18191f;
+  --main-bg: #ffd803;
+  --secondry-main-bg: rgba(255, 216, 3, 0.63);
+}
